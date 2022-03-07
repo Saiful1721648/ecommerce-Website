@@ -1,3 +1,48 @@
+.container {
+    padding-bottom: 50px;
+}
+
 .slide-bg {
     background-color: #fceae8;
+}
+
+.carousel-inner {
+    padding: 20px 40px;
+}
+
+.price {
+    font-size: bold;
+    color: #003136ca;
+}
+
+.buy-btn {
+    background-color: #929bec;
+    border-radius: 10%;
+    cursor: pointer;
+    border: none;
+    padding: 9px 25px;
+    font-size: bold;
+}
+
+.cat1,
+.cat2,
+.cat3 {
+    padding: 10px 30px;
+    border-radius: 10%;
+}
+
+.cat1 {
+    background-color: rgb(255, 166, 0);
+}
+
+.cat2 {
+    background-color: rgb(255, 0, 0);
+}
+
+.cat3 {
+    background-color: rgb(0, 89, 255);
+}
+
+.catagories h1 {
+    color: #fceae8;
 }
