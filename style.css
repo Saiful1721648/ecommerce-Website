@@ -46,3 +46,17 @@
 .catagories h1 {
     color: #fceae8;
 }
+
+.card {
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+
+#contact {
+    background-color: #fceae8;
+    height: 300px;
+}
+
+footer {
+    text-align: center;
+}
